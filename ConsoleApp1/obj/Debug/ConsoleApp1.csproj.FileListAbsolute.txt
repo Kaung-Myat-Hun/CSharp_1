@@ -1,0 +1,8 @@
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\kaung\OneDrive\Desktop\Project\C#\project_1\C#_Project_1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
