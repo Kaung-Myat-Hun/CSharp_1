@@ -34,6 +34,13 @@ namespace ConsoleApp1
             Console.WriteLine(ui);
             Console.WriteLine(l);
             Console.WriteLine(ul);
+
+            // type conversation 
+
+            byte x = 100;
+            short y = x; //implicit
+
+            x = (byte) y; // explict ကြီးရာကနေပီး ငယ်ရာကိုသွားရင် explicitt ဖြစ်တယ်အာ့ဆိုရင် cast ကို ဖမ်းပေးဖို့လိုတယ် လက်သည်းကွင်းထဲမှာ type ကို ရေးပေးဖို့လိုပါတယ်
         }
     }
 }
