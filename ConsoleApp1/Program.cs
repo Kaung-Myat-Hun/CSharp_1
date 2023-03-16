@@ -44,6 +44,9 @@ namespace ConsoleApp1
 
             string str = "234";
             int number = Convert.ToInt32 (str);
+
+            string str1 = "1234";
+            int num = Convert.ToInt32 (str1);
         }
     }
 }
