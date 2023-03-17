@@ -47,6 +47,11 @@ namespace ConsoleApp1
 
             string str1 = "1234";
             int num = Convert.ToInt32 (str1);
+
+            int a=0, g = 0;
+            Console.WriteLine(a++); // output 0 ပြတယ် ဒါပေမယ့် တန်ဖိုးက ၁ ဖြစ်သွားတယ် 
+            Console.WriteLine(a);
+
         }
     }
 }
