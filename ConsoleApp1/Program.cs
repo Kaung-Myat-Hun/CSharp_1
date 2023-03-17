@@ -52,6 +52,17 @@ namespace ConsoleApp1
             Console.WriteLine(a++); // output 0 ပြတယ် ဒါပေမယ့် တန်ဖိုးက ၁ ဖြစ်သွားတယ် 
             Console.WriteLine(a);
 
+            Console.Write("Please Enter Your myanmar mark : ");
+            int mmMark = Convert.ToInt32(Console.ReadLine());
+
+            if(mmMark >= 40)
+            {
+                Console.WriteLine("Passed with mark "+ mmMark);
+            }
+            else
+            {
+                Console.WriteLine("Failed");
+            }
         }
     }
 }
